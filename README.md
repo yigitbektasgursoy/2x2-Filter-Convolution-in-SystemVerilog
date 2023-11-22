@@ -6,12 +6,10 @@ This project implements a convolution module using SystemVerilog. The module tak
 
 **Specifications and Requirements**
 
-- The module should use SystemVerilog as the hardware description language.
 - The module should use a memory block to store the input image, and another memory block to store the output image.
 - The module should use counters to iterate over the pixels and perform the convolution operation.
 - The module should use a valid signal to indicate when the input image is loaded and when the output image is ready.
 - The module should use a parameter to define the filter coefficients, and another parameter to define the pixel width.
-- The module should use an interface to connect to other modules or devices.
 
 **Design and Implementation**
 
@@ -29,4 +27,6 @@ A testbench was created to provide the random input integers, the filter coeffic
 
 The simulation and testing results showed that the module performed the convolution operation correctly, and produced the expected output image. 
 
-![Input image] ![Output image]
+
+![waveform](https://github.com/grsyigit/ConvolutionModuleusingSystemVerilog/assets/92864598/a64cec25-d51b-4b7c-a7ca-7ca2043f1ed3)
+![scope](https://github.com/grsyigit/ConvolutionModuleusingSystemVerilog/assets/92864598/e3cdee32-4cdf-4c2c-bb5a-b05390683201)
