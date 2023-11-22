@@ -1,4 +1,4 @@
-# 2*2 Filter Convolution using SystemVerilog
+# 2x2 Filter Convolution using SystemVerilog
 
 **Description**
 
