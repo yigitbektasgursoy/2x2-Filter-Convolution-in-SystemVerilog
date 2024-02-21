@@ -28,5 +28,6 @@ A testbench was created to provide the random input integers, the filter coeffic
 The simulation and testing results showed that the module performed the convolution operation correctly, and produced the expected output image. 
 
 
-![waveform](https://github.com/grsyigit/ConvolutionModuleusingSystemVerilog/assets/92864598/a64cec25-d51b-4b7c-a7ca-7ca2043f1ed3)
-![scope](https://github.com/grsyigit/ConvolutionModuleusingSystemVerilog/assets/92864598/e3cdee32-4cdf-4c2c-bb5a-b05390683201)
+![waveform](https://github.com/grsyigit/2x2-Filter-Convolution-in-SystemVerilog/assets/92864598/28d5e709-4f7e-4167-ac7a-68f460801334)
+![scope](https://github.com/grsyigit/2x2-Filter-Convolution-in-SystemVerilog/assets/92864598/ea5b91e7-3bc3-4037-a71d-e82efd64eeb7)
+
