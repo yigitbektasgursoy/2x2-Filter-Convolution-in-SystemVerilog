@@ -1,7 +1,3 @@
-// RISC-V Architecture & Processor Homework 1
-// Yunus Emre Cakiroglu - 040190019
-// cakiroglu19@itu.edu.tr
-
 `timescale 1ns / 1ps
 
 module convolution_tb;
